@@ -1,1 +1,1 @@
-# GraphTheory_MC_OR
+# GraphTheory MarKov CHain Operation Research
