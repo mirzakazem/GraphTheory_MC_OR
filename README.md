@@ -1,2 +1,2 @@
-# GraphTheory MarKov CHain Operation Research
+# GraphTheory MarKov Chain Operation Research
 
